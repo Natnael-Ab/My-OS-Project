@@ -1,5 +1,5 @@
 # My-OS-Project
-Operating System project and assignments for Information Systems
+Operating System project and assignments
 Department: Information Systems  
 Program: BSc in Information Systems  
 Year: 3rd Year  

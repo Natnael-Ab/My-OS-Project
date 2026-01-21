@@ -1,6 +1,6 @@
 # Operating System Course Project
 
-**Institution:** Bahir Dar University,BIT Campus
+**Institution:** Bahir Dar University,BIT Campus  
 **Faculty:** Faculty of Computing  
 **Department:** Information Systems  
 **Program:** BSc in Information Systems  

@@ -14,9 +14,6 @@ system using a virtual environment (iOS Simulator).
 - Assignment 1: Mobile Phone Brand Evaluation (Emporia)
 - Assignment 2: PC Brand Evaluation (Dell EMC)
 
-## Student Information
-Name: Natnael Abebe  
-ID: BDU1602243  
 
 ## Note
 Due to hardware limitations, the iOS operating system was studied using Apple’s
